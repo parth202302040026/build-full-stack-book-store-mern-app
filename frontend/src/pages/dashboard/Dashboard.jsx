@@ -129,61 +129,31 @@ const Dashboard = () => {
                 <div className="overflow-y-auto" style={{maxHeight: '24rem'}}>
                   <ul className="p-6 space-y-6">
                     <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/women/82.jpg" alt="Annette Watson profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Annette Watson</span>
+                      
+                      <span className="text-gray-600">Parth Mishra</span>
                       <span className="ml-auto font-semibold">9.3</span>
                     </li>
                     <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/men/81.jpg" alt="Calvin Steward profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Calvin Steward</span>
+                     
+                      <span className="text-gray-600">Shrishail Rugge</span>
                       <span className="ml-auto font-semibold">8.9</span>
                     </li>
                     <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/men/80.jpg" alt="Ralph Richards profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Ralph Richards</span>
+                     
+                      <span className="text-gray-600">trunal Wagh</span>
                       <span className="ml-auto font-semibold">8.7</span>
                     </li>
                     <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/men/79.jpg" alt="Bernard Murphy profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Bernard Murphy</span>
+                      
+                      <span className="text-gray-600">Ravindra rajhans</span>
                       <span className="ml-auto font-semibold">8.2</span>
                     </li>
                     <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/women/78.jpg" alt="Arlene Robertson profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Arlene Robertson</span>
+                      <span className="text-gray-600">saurabh khatik</span>
                       <span className="ml-auto font-semibold">8.2</span>
                     </li>
-                    <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/women/77.jpg" alt="Jane Lane profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Jane Lane</span>
-                      <span className="ml-auto font-semibold">8.1</span>
-                    </li>
-                    <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/men/76.jpg" alt="Pat Mckinney profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Pat Mckinney</span>
-                      <span className="ml-auto font-semibold">7.9</span>
-                    </li>
-                    <li className="flex items-center">
-                      <div className="h-10 w-10 mr-3 bg-gray-100 rounded-full overflow-hidden">
-                        <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Norman Walters profile picture"/>
-                      </div>
-                      <span className="text-gray-600">Norman Walters</span>
-                      <span className="ml-auto font-semibold">7.7</span>
-                    </li>
+                     
+                    
                   </ul>
                 </div>
               </div>
@@ -195,7 +165,7 @@ const Dashboard = () => {
               </div>
             </section>
             <section className="text-right font-semibold text-gray-500">
-              <a href="#" className="text-purple-600 hover:underline">Recreated on Codepen</a> with <a href="https://tailwindcss.com/" className="text-teal-400 hover:underline">Tailwind CSS</a> by Azri Kahar, <a href="https://dribbble.com/shots/10711741-Free-UI-Kit-for-Figma-Online-Courses-Dashboard" className="text-purple-600 hover:underline">original design</a> made by Chili Labs
+              <a href="#" className="text-purple-600 hover:underline">Recreated on Codepen</a> with <a href="https://tailwindcss.com/" className="text-teal-400 hover:underline">Tailwind CSS</a> by Parth Mishra, <a href="https://dribbble.com/shots/10711741-Free-UI-Kit-for-Figma-Online-Courses-Dashboard" className="text-purple-600 hover:underline">original design</a> made by Chili Labs
             </section>
     </>
   )
